@@ -28,7 +28,6 @@ NEER can :
 >* Admin site web application
 >* Supports the hardware
 
-## Images of NEER!
 
 
 
